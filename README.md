@@ -1,2 +1,2 @@
-# Employee-Table-
+# Employee Table
 Spring MVC / Hibernate / Spring AOP
